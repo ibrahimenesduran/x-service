@@ -1,0 +1,42 @@
+[
+    {
+        "auth_info_1": "cangeloc45",
+        "auth_info_2": "emmarossinnufea1246@gmx.fr",
+        "password": "qG42fN5S",
+        "totp_secret": "L7SYYHA4QO24M6HJ",
+        "cookies_file": "./config/cookies/cangeloc45.cookie.json",
+        "proxy": "http://fdaPVG377:easJDL734@31.145.172.104:8888"
+    },
+    {
+        "auth_info_1": "l_c1973e93",
+        "auth_info_2": "evangelinecunninghamfcemdds302@gmx.ca",
+        "password": "H7xVfYjL",
+        "totp_secret": "LHCLNEBUFE5YSIHM",
+        "cookies_file": "./config/cookies/l_c1973e93.cookie.json",
+        "proxy": "http://fdaPVG377:easJDL734@31.145.158.104:8888"
+    },
+    {
+        "auth_info_1": "marisswansoni",
+        "auth_info_2": "antoninaharperxlmggo9847@gmx.co.uk",
+        "password": "yvLuMJZz",
+        "totp_secret": "ZY4LQ2RS5VDIHOPE",
+        "cookies_file": "./config/cookies/marisswansoni.cookie.json",
+        "proxy": "http://fdaPVG377:easJDL734@31.145.172.118:8888"
+    },
+    {
+        "auth_info_1": "leolak198054",
+        "auth_info_2": "vernicebecksjyjaya1200@gmx.li",
+        "password": "KwZPOfpA",
+        "totp_secret": "RBXWJBQJPV7XJMOJ",
+        "cookies_file": "./config/cookies/leolak198054.cookie.json",
+        "proxy": "http://fdaPVG377:easJDL734@62.244.198.247:8888"
+    },
+    {
+        "auth_info_1": "nleyjulianne_72",
+        "auth_info_2": "susiekiernanmbpe7070@gmx.com.my",
+        "password": "VcXfqi2D",
+        "totp_secret": "C7L4ZRVVYFY2OGOU",
+        "cookies_file": "./config/cookies/nleyjulianne_72.cookie.json",
+        "proxy": "http://fdaPVG377:easJDL734@193.243.201.133:8888"
+    }
+]
