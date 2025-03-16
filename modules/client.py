@@ -28,6 +28,7 @@ class TwitterClient:
         self.limiter = RateLimiter()
         self.is_busy = False
         self.is_rate_limited = False
+        self.is_logged_in = False
 
     async def start(self):
         """
@@ -43,8 +44,10 @@ class TwitterClient:
                 cookies_file=self._account.get("cookies_file"),
                 totp_secret=self._account.get("totp_secret")
             )
+            self.is_logged_in = True
             logger.info(f'[Client] Logged in: {self._account.get("auth_info_1")}')
         except Exception as e:
+            self.is_logged_in = False
             self.handle_exception(e, "login")
 
     def clean_json(self, obj):
